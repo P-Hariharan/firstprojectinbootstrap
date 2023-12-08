@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+.navbar-brand {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+}
+
+.navbar a:hover {
+  color: aqua;
+}
+
+ul {
+  font-family: "Poppins", sans-serif;
+}
+
+.offer {
+  border: 1px solid green;
+  color: green;
+  border-radius: 5px;
+  margin-left: 15px;
+  padding: 3px;
+}
+
+strong {
+  color: red;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+.card-text {
+  font-size: larger;
+}
+
+.contact2 {
+  border: solid;
+  margin-top: 50px;
+  padding: 50px;
+  background-color: black;
+  color: white;
+}
+
+.login {
+  width: 400px;
+  height: 300px;
+  border: 1px solid white;
+  margin-top: 50px;
+}
+
+.login input {
+  margin-top: 10px;
+}
